@@ -1,1 +1,59 @@
-# Credit-risk-early-warning
+# 🚀 Credit Risk Early Warning System (Banking / FinTech)
+## Business Objective
+
+Detect early default risk before customers miss payments, enabling proactive intervention and loss prevention.
+
+## Why This Matters
+
+Defaults are expensive
+
+Late intervention increases charge-offs
+
+Early signals exist months before default
+
+This system transforms raw transaction data into actionable risk intelligence.
+
+## End-to-End Architecture
+Raw Data → Feature Engineering → Risk Model → 
+Threshold Optimization → Risk Tiers → 
+Governance Monitoring → Executive Dashboard → Live App
+
+## Modeling Highlights
+
+Gradient Boosting Classifier (Best ROC-AUC: 0.776)
+
+Cost-sensitive threshold optimization
+
+Risk tier segmentation (Low / Medium / High)
+
+Feature explainability (delinquency & volatility driven)
+
+Risk Governance
+
+ROC stability monitoring
+
+KS drift detection
+
+PSI population stability tracking
+
+Business threshold calibration
+
+## Tools & Stack
+
+Python (pandas, sklearn, matplotlib)
+
+Streamlit (live risk scoring)
+
+Power BI (executive monitoring)
+
+Excel (advanced dashboarding)
+
+GitHub (production structure)
+
+## Live Demo
+
+👉 Streamlit App: https://credit-risk-early-warning-6vfwzmlz3pmxyjxrbxyxxm.streamlit.app/
+
+Disclaimer
+
+This project uses public data and is for educational demonstration only
