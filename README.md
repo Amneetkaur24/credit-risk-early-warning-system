@@ -58,6 +58,15 @@ GitHub (production structure)
 
 👉 Streamlit App: https://credit-risk-early-warning-6vfwzmlz3pmxyjxrbxyxxm.streamlit.app/
 
+## Structure
+credit-risk-early-warning-system
+│
+├── data
+├── models
+├── notebooks
+├── dashboards
+├── app
+└── README.md
 Disclaimer
 
 This project uses public data and is for educational demonstration only
