@@ -18,6 +18,10 @@ Raw Data → Feature Engineering → Risk Model →
 Threshold Optimization → Risk Tiers → 
 Governance Monitoring → Executive Dashboard → Live App
 
+## Business Outcome
+
+The model identifies high-risk customers before missed payments, allowing financial institutions to implement early intervention strategies and reduce potential credit losses.
+
 ## Modeling Highlights
 
 Gradient Boosting Classifier (Best ROC-AUC: 0.776)
