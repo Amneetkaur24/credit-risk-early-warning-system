@@ -1,6 +1,7 @@
 # 🚀 Credit Risk Early Warning System (Banking / FinTech)
 ---
 <img width="913" height="618" alt="image" src="https://github.com/user-attachments/assets/e8793e6b-69b3-45cb-a8d7-e9eac0b6353c" />
+
 ---
 
 Live App: https://credit-risk-early-warning-6vfwzmlz3pmxyjxrbxyxxm.streamlit.app/
