@@ -5,6 +5,7 @@
 
 Live App: https://credit-risk-early-warning-6vfwzmlz3pmxyjxrbxyxxm.streamlit.app/
 
+---
 ## Business Objective
 Detect early default risk before customers miss payments, enabling proactive intervention and loss prevention.
 
